@@ -23,7 +23,7 @@
       <stop
          id="stop4216"
          offset="0"
-         style="stop-color:#f16d87;stop-opacity:0" />
+         style="stop-color:#ffffff;stop-opacity:0" />
       <stop
          id="stop4218"
          offset="1"
@@ -254,8 +254,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="10.246154"
-     inkscape:cx="14.076616"
-     inkscape:cy="24.422252"
+     inkscape:cx="10.855895"
+     inkscape:cy="24.227057"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -282,7 +282,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -308,7 +308,7 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <path
-       style="fill:#917166;fill-opacity:1;stroke:none"
+       style="fill:#8d6e63;fill-opacity:1;stroke:none"
        d="m 8.172673,1008.363 7,0 2,0 23,0 c 1.107999,0 2,0.892 2,2 l 0,13 c 0,1.108 -0.892,2 -2,2 l -32,0 c -1.108,0 -2,-0.892 -2,-2 l 0,-13 c 0,-1.108 0.842019,-2 2,-2 z"
        id="rect3789-7"
        inkscape:connector-curvature="0"
@@ -319,25 +319,11 @@
        id="rect3789-7-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccssssssss" />
-    <g
-       id="g3836"
-       style="opacity:0.8"
-       transform="translate(0.17267302,1.0000174)">
-      <rect
-         ry="1.5644517e-05"
-         y="1017.3622"
-         x="21"
-         height="18"
-         width="6"
-         id="rect3832"
-         style="fill:#f7e6f0;fill-opacity:1;stroke:none" />
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="path3834"
-         d="m 22,1017.3622 -4,0 6,-7 6,7 -4,0 -2,2 z"
-         style="fill:#f7e6f0;fill-opacity:1;stroke:none" />
-    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:0.78431374;stroke:none"
+       d="M 24.171875 7 L 18.171875 14 L 21.171875 14 L 21.171875 32 L 27.171875 32 L 27.171875 14 L 30.171875 14 L 24.171875 7 z "
+       transform="translate(0,1004.3622)"
+       id="rect3832" />
     <rect
        style="opacity:0.25;fill:url(#linearGradient3799-9);fill-opacity:1;stroke:none"
        id="rect3791-9"
@@ -353,7 +339,7 @@
        id="path3041"
        sodipodi:nodetypes="sscsccscssccs" />
     <path
-       style="fill:#917166;fill-opacity:1;stroke:none"
+       style="fill:#8d6e63;fill-opacity:1;stroke:none"
        d="m 5,1022.3622 38,0 c 1.108,0 2,0.7647 2,1.7143 l 0,20.5714 c 0,0.9496 -0.892,1.7143 -2,1.7143 l -38,0 c -1.108,0 -2,-0.7647 -2,-1.7143 l 0,-20.5714 c 0,-0.9496 0.892,-1.7143 2,-1.7143 z"
        id="rect2987-7"
        inkscape:connector-curvature="0"
