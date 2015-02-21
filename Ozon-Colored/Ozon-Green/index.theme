@@ -7,7 +7,12 @@ Inherits=Ozon,Adwaita
 Example=directory-x-normal
 
 # Directory list
-Directories=48x48/places
+Directories=16x16/places,48x48/places
+
+[16x16/places]
+Size=16
+Context=Places
+Type=Fixed
 
 [48x48/places]
 Size=48
