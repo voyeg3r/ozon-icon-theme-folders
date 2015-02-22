@@ -18,6 +18,7 @@ local:
 	-rm -rf $(INSTALLDIR)/Ozon-Orange/*
 	-rm -rf $(INSTALLDIR)/Ozon-Purple/*
 	-rm -rf $(INSTALLDIR)/Ozon-Red/*
+	-rm -rf $(INSTALLDIR)/Ozon-Teal/*
 
 	#Copy new contents in
 	cp -rf Ozon-Colored/* $(INSTALLDIR)
@@ -32,4 +33,5 @@ uninstall:
 	-rm -rf $(INSTALLDIR)Ozon-Orange
 	-rm -rf $(INSTALLDIR)Ozon-Purple
 	-rm -rf $(INSTALLDIR)Ozon-Red
+	-rm -rf $(INSTALLDIR)Ozon-Teal
 
